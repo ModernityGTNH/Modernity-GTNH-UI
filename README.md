@@ -37,5 +37,13 @@ You will have a new style of better questing book! Enjoy it XD!
 Modernity-GTNH [Modernity-GTNH](https://github.com/ModernityGTNH/Modernity-GTNH) \
 Modernity-GTNH-Dark-UI [Modernity-GTNH-Dark-UI](https://github.com/ModernityGTNH/Modernity-GTNH-Dark-UI)
 
+### Developers
+
+Thanks to the following developers for their contributions to Modernity-GTNH-UI:
+
+<a href="https://github.com/ModernityGTNH/Modernity-GTNH-UI/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ModernityGTNH/Modernity-GTNH-UI&max=1000" alt="contributors" />
+</a>
+
 ### Licensing
  [![](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
