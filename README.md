@@ -4,9 +4,9 @@
     </a>
 </p>
 
-# Modernity-GTNH-UI
+# Modernity-GTNH-OreUI
 
-The objective of this resource pack is to update ~~all~~ most of the GUI elements to the style of [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) in Minecraft 1.21.1+.Some will be updated to match the higher version's style of the mods. \
+The objective of this resource pack is to update ~~all~~ most of the GUI elements to the style of [OreUI-For-Everyone](https://github.com/ReConstruction-127/OreUI-For-Everyone-1.20.1), which is based on [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) in Minecraft 1.21.1+. \
 Suggested to use with [Modernity-GTNH](https://github.com/ModernityGTNH/Modernity-GTNH)
 
 It's still work in progress, and it is expected to be compatible with GTNH version ~~2.6.0, 2.7.1, 2.8.0~~ 2.9.0
@@ -44,6 +44,10 @@ Thanks to the following developers for their contributions to Modernity-GTNH-UI:
 <a href="https://github.com/ModernityGTNH/Modernity-GTNH-UI/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ModernityGTNH/Modernity-GTNH-UI&max=1000" alt="contributors" />
 </a>
+
+# Credits
+
+Thanks to ReConstruction for the permission to port this pack to 1.7.10!
 
 ### Licensing
  [![](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
