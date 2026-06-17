@@ -1,0 +1,4 @@
+#List color
+color.resource.vendingmachine.tradeDisplayListTradableNow=0x88a1ff9c
+color.resource.vendingmachine.tradeDisplayListUntradableNow=0x88696d88
+color.resource.vendingmachine.tradeDisplayListCurrentSelected=0xAA9cd3ff
