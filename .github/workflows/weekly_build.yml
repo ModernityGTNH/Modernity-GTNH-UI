@@ -18,7 +18,7 @@ jobs:
         pack.png
         README.md
 
-      TARGET_BRANCHES: "main"
+      TARGET_BRANCHES: "2.9.X"
       ZIP_NAME_main: "Modernity-GTNH-UI-{DATE}.zip"
 
     steps:
