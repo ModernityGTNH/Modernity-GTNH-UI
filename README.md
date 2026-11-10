@@ -27,7 +27,8 @@ Extra supports:
 10. [Think Tech](https://github.com/Ol925/ThinkTech)
 11. [Programmable Hatches Mod](https://github.com/reobf/Programmable-Hatches-Mod)
 12. [AE2 Thing](https://github.com/asdflj/AE2Things)
-13. [Multi Page Chest](https://www.curseforge.com/minecraft/mc-mods/multi-page-chest)
+13. [Advanced Memory Card](https://github.com/suntide-20210418/AdvancedMemoryCard/tree/1.7.10-GTNH)
+14. [Multi Page Chest](https://www.curseforge.com/minecraft/mc-mods/multi-page-chest)
 
 Special Supports:
 You will have a new style of better questing book! Enjoy it XD!
